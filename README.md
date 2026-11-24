@@ -54,7 +54,7 @@ Run it from the project directory so the game can find its `resource` assets. Th
 
 ## Asset and trademark disclaimer
 
-This is an unofficial, non-commercial student project created for a college class. Some visual and audio assets are from or associated with **FINAL FANTASY BRAVE EXVIUS** (sometimes informally misspelled “Brave Exius”), a property of its respective rights holders. All third-party characters, artwork, audio, names, trademarks, and other materials remain the property of their respective owners. Their inclusion here does not imply sponsorship, endorsement, or affiliation with the rights holders. This project is not an official *FINAL FANTASY* product and is not intended for commercial use. No ownership of third-party assets is claimed; please contact the relevant rights holders for permissions or licensing questions.
+This is an unofficial, non-commercial created for finals college project. Sprite assets are from **FINAL FANTASY BRAVE EXVIUS**, a property of its respective rights holders. All third-party characters, artwork, audio, names, trademarks, and other materials remain the property of their respective owners. Their inclusion here does not imply sponsorship, endorsement, or affiliation with the rights holders. This project is not an official *FINAL FANTASY* product and is not intended for commercial use. No ownership of third-party assets is claimed.
 
 ## Credits
 
